@@ -1,0 +1,212 @@
+body{
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #f6ffd6;
+}
+
+h1{
+    font-size: 4em;
+    color: #D91C71;
+    
+    }
+
+h2{
+    font-size: 2em;
+    color: #0000ff;
+    background-color: #fff;
+    text-align: center;
+    margin-bottom: 15px;
+    box-shadow: 1px 1px 2px;
+}
+
+table{
+    width: 700px;
+    display: inline-block;
+}
+
+tr,th,td{
+    border: 1px solid black;
+    padding: 15px;
+}
+
+th{
+    font-weight: bold;
+}
+
+.cor{
+    color: #0000ff;
+}
+h3{
+    font-size: 12px;
+    color: #000000;
+}
+
+#cabeçalho{
+    text-align: center;
+    background-color: #FAE3D9;
+    padding: 20px;
+    box-shadow: 1px 1px 1px #999494;
+}
+
+#logo{
+    padding: 20px;
+}
+
+#menus > a{
+    font-size: 17px;
+    padding: 17px;
+    text-decoration: none;
+    color: #332F2E;
+}
+
+#menus > a:hover{
+    color: red ;
+}
+
+#corpoHome{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px 0px;
+}
+
+#esquerda{
+    float: left;
+    width: 660px;
+}
+
+.fotos{
+    background-color: #fdfbf9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+
+.fotos > img{
+    width: 500px;
+}
+
+#direita{
+    float: right;
+    width: 250px;
+}
+
+.fts{
+    background-color: #fdfbf9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#roda-pe{
+    background-color: #fdfbf9;
+    clear: both;
+    text-align: center;
+    padding: 30px;
+    border-top: 1px solid #332F2E;
+}
+#p{
+    float: left;
+}
+
+#g{
+    float: right;
+}
+
+#corpoProduto{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px 0px;
+}
+
+#m{
+    font-size: 20px;
+    padding: 20px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    background-color: #fff
+}
+
+.fotosm{
+    background-color: #fdfbf9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-size: 40px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+.fotos >img{
+    width: 500px;
+}
+.corpo{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px 0px;
+}
+#corpoSobre{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px 0px;
+    background-color: #fdfbf9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+h4{
+    font-size: 20px;
+    background-color: #cbccc9;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-weight: bold;
+}
+
+.objetivos{
+    font-weight: bold;
+    margin-block: 25px;
+}
+
+.as{
+    font-size: 18px;
+    margin-bottom: 15px;
+    text-align: center;
+}
+
+#duvida{
+    padding: 15px;
+    font-size: 20px;
+    margin-bottom: 50px;
+    font-weight: bold;
+    text-align: center;
+}
+
+#butao{
+    background-color: rgb(119, 224, 119);
+}
+
+form{
+    width: 1000px;
+    margin: 0 auto;
+    padding: 15px 0px;
+    background-color: #fdfbf9;
+    border-radius: 5px;
+    padding: 15px;
+    box-shadow: 1px 1px 2px;
+    margin-bottom: 15px;
+    font-size: 20px;
+    font-family:Arial, Helvetica, sans-serif;
+}
